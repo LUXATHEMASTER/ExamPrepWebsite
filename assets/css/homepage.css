@@ -1,0 +1,22 @@
+
+body {
+/* background-image: url("../img/backgrounds/1.jpg"); */
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  color: #888;
+  color:white;
+  line-height: 30px;
+  text-align: center;
+
+}
+
+#profile_photo{
+  width:600px;
+  height: 300px;
+}
+#content{
+  border: 3px;
+  border-style: solid;
+  background-color: #888;
+}
